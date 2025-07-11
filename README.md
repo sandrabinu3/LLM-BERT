@@ -21,3 +21,4 @@ This repository contains the code for fine-grained multi-class sentiment classif
 
 - Used a subset of 10,000 training and 1,000 test samples due to resource limits
 - Future improvements: better class balance, data augmentation, or larger model
+
